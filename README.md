@@ -8,7 +8,9 @@ I used a desktop-first approach, as the main target for this website should be c
 On the images below, you can see the desktop and mobile versions.
 
 Desktop view:
+
 ![SigmaDev desktop](https://github.com/Edin-Durak/SigmaDev/assets/138677399/8f554bb2-0e0f-480f-9462-84e602006f6f)
 
 Mobile view:
+
 ![SigmaDev mobile](https://github.com/Edin-Durak/SigmaDev/assets/138677399/f1d67631-9c95-41c9-b0c5-ac8ea5f062e4)
