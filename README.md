@@ -1,5 +1,8 @@
 # Figma to HTML/CSS/JS
+
 This project is based on a provided Figma design that I got from my friend for practice purposes. The goal is to replicate the Figma design and make it responsive for all screen sizes.
+
+Live preview: https://edin-durak.github.io/CompanyTech/
 
 The website is created with vanilla HTML/CSS/JS with no use of any framework.
 Google fonts are stored locally in this project - no CDN used.
@@ -9,8 +12,8 @@ On the images below, you can see the desktop and mobile versions.
 
 Desktop view:
 
-![SigmaDev desktop](https://github.com/Edin-Durak/SigmaDev/assets/138677399/8f554bb2-0e0f-480f-9462-84e602006f6f)
+![Image](https://github.com/user-attachments/assets/f1a5684d-5eb7-4334-b4d8-fe70df85ccc9)
 
 Mobile view:
 
-![SigmaDev mobile](https://github.com/Edin-Durak/SigmaDev/assets/138677399/f1d67631-9c95-41c9-b0c5-ac8ea5f062e4)
+![Image](https://github.com/user-attachments/assets/31e36883-4074-49ef-aa99-a2c1c749f439)
