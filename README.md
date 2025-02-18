@@ -12,8 +12,8 @@ On the images below, you can see the desktop and mobile versions.
 
 Desktop view:
 
-![Image](https://github.com/user-attachments/assets/f1a5684d-5eb7-4334-b4d8-fe70df85ccc9)
+![Image](https://github.com/user-attachments/assets/349b8389-7616-4e8f-927e-a1be631063dc)
 
 Mobile view:
 
-![Image](https://github.com/user-attachments/assets/31e36883-4074-49ef-aa99-a2c1c749f439)
+![Image](https://github.com/user-attachments/assets/0581f730-93a4-4d3b-b4a1-f80ba12b3c5b)
